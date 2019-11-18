@@ -4,7 +4,7 @@
 
 - Notice and Take Down Policy:                        
 
-## Notice and Take Down Policy
+## Notice and Take Down Policy   
 
 Pay2Load respects your rights and expects that you respect the rights of others. In the unfortunate event that Pay2Load finds or is notified of unlawful files or content being distributed through it’s Service, we will follow the procedures described in this Notice and Take Down Policy. By using our website or file transfer service, you agree to be bound by our Notice and Take Down Policy below.
 
