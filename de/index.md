@@ -10,3 +10,5 @@
   - [Nutzungsbedingungen](/docs/{{version}}/nutzungsbedingungen)
   - [Servicebedingungen](/docs/{{version}}/servicebedingungen)
   - [Datenschutz und Cookies](/docs/{{version}}/datenschutz-cookies)
+  - [Notice and take down policy](/docs/{{version}}/notice-and-take-down-policy)
+  - [Responsible disclosure policy](/docs/{{version}}/responsible-disclosure-policy)
