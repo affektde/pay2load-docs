@@ -1,9 +1,10 @@
-# Wie lade ich meine Daten herunter?           :                        
+# Wie lade ich meine Daten herunter?                  
 
 ---
 
-- Wie lade ich meine Daten herunter?                                   
+- [Wie lade ich meine Daten herunter?](#wie-lade-ich-meine-daten-herunter)
 
+<a name="wie-lade-ich-meine-daten-herunter"></a>
 ## Wie lade ich meine Daten herunter?           
 **Wie lade ich meine Daten herunter?**
 

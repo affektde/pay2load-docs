@@ -7,8 +7,4 @@
   - [Pay2Load Pro](/docs/{{version}}/pro)
 - ## Service
   - [Bug melden](/docs/{{version}}/bugs)
-  - [Nutzungsbedingungen](/docs/{{version}}/nutzungsbedingungen)
-  - [Servicebedingungen](/docs/{{version}}/servicebedingungen)
-  - [Datenschutz und Cookies](/docs/{{version}}/datenschutz-cookies)
-  - [Notice and take down policy](/docs/{{version}}/notice-and-take-down-policy)
-  - [Responsible disclosure policy](/docs/{{version}}/responsible-disclosure-policy)
+  - [Privacy and Policies](/docs/{{version}}/privacy-and-policies)

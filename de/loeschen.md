@@ -1,9 +1,10 @@
-# Kann ich meinen Upload löschen?:                           
+# Projekt löschen
 
 ---
 
-- Kann ich meinen Upload löschen?                        
+- [Kann ich meinen Upload löschen?](#kann-ich-meinen-upload-loeschen)
 
+<a name="kann-ich-meinen-upload-loeschen"></a>
 ## Kann ich meinen Upload löschen?
 
 Es ist nicht möglich, deine Dateien im kostenlosen pay2load Service zu löschen. Die Gültigkeit deines Datenlinks läuft nach 7 Tagen ab und ist dann nicht mehr verfügbar. 
