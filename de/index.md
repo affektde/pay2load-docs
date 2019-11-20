@@ -1,4 +1,12 @@
-- ## Prolog
-    - [Vision](/{{route}}/{{version}}/vision)
-    - [Konzept](/{{route}}/{{version}}/concept)
-    
+- ## Einführung
+  - [Übersicht](/docs/{{version}}/overview)
+  - [Dateien senden](/docs/{{version}}/senden)
+  - [Dateien herunterladen](/docs/{{version}}/herunterladen)
+  - [Projekt löschen](/docs/{{version}}/loeschen)
+- ## Pro Accounts
+  - [Pay2Load Pro](/docs/{{version}}/pro)
+- ## Service
+  - [Bug melden](/docs/{{version}}/bugs)
+  - [Nutzungsbedingungen](/docs/{{version}}/nutzungsbedingungen)
+  - [Servicebedingungen](/docs/{{version}}/servicebedingungen)
+  - [Datenschutz und Cookies](/docs/{{version}}/datenschutz-cookies)

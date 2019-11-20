@@ -1,9 +1,10 @@
-# Wie kann ich Dateien versenden:                        
+# Dateien senden                       
 
 ---
 
-- Wie kann ich Dateien versenden:                        
+- [Wie kann ich Dateien versenden](#wie-kann-ich-dateien-versenden)
 
+<a name="wie-kann-ich-dateien-versenden"></a>
 ## Wie kann ich Dateien versenden
 **Wie kann ich Dateien über pay2load versenden und sofort meine Zahlung erhalten**
 
