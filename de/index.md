@@ -7,4 +7,5 @@
   - [Pay2Load Pro](/docs/{{version}}/pro)
 - ## Service
   - [Bug melden](/docs/{{version}}/bugs)
+  - [Changelog](/docs/{{version}}/changelog)
   - [Privacy and Policies](/docs/{{version}}/privacy-and-policies)
