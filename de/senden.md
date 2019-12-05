@@ -24,7 +24,7 @@ Nachfolgend findest Du eine Grafik mit Anweisungen zum Senden von Dateien über 
 - Gebe die Währung und den Betrag an
 - Gib hier bitte die Kontodaten für deinen Payout an
 - Nachdem du alle Pflichteingaben wie Vorname, Land,     
-  Straße, Postleitzahl, Wohnort sowie Land,              Geburtsdatum und deine IBAN vollständig ausgefüllt hast akzeptiere bitte unsere pay2Load AGBS und klicke auf den Button „SENDEN“     
+  Straße, Postleitzahl, Wohnort sowie Land, Geburtsdatum und deine IBAN vollständig ausgefüllt hast akzeptiere bitte unsere pay2Load AGBS und klicke auf den Button „SENDEN“     
 
 **Let´s pay2load...** und erfreue dich an der sofortigen Bezahlung deiner finalen Arbeit. 
 
