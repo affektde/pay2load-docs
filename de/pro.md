@@ -19,7 +19,7 @@
 
 Dein kostenloser pay2load Account bietet Dir alle Möglichkeiten um unseren Service für sofortige Bezahlung bei digitalem Datentranfer bestmöglich nutzen zu können. 
 
-Du bezahlst für unseren Service jediglich eine kleine Gebühr von 2% auf Deinen Rechnungsbetrag.
+Du bezahlst für unseren Service jediglich eine kleine Gebühr von 3% auf Deinen Rechnungsbetrag.
 
 Hier findest du jedoch noch einige spezielle Zusatzfunktionen, die dir unser pay2load Pro Account bietet.
 
