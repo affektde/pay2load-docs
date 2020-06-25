@@ -15,7 +15,7 @@
 Wenn du auf eine Fehlfunktion in unserem System gestoßen bist lass uns gemeinsam durch einige Schritte prüfen, was das Problem sein könnte.
 Versuche bitte zuerst einen anderen Browser zu verwenden, um zu sehen, ob es sich um einen Fehler im Code oder um einen browserbezogenen Fehler handelt.
 Notiere dir alle Browser, in denen der Fehler auftritt. Du kannst diese Informationen verwenden, wenn du eine Supportanfrage stellst.
-Zweitens können wir einen Blick in die Konsole eines Browsers werfen, um zu sehen, ob es eine spezifische Fehlermeldung gibt, die unserem Support-Team einen großen Hinweis auf die Lösung des Problems gibt.
+Zweitens können wir einen Blick in die Konsole eines Browsers werfen, um zu sehen, ob es eine spezifische Fehlermeldung gibt, die unserem Support-Team einen großen Hinweis auf die Lösung des Problems gibt. 
 
 <a name="fuer-google-chrome-nutzer"></a>
 ##Für Google Chrome-Nutzer
